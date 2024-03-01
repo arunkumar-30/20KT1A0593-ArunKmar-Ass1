@@ -72,7 +72,7 @@ transform: scale(1.1);
   display: flex;
   align-items: center;
   justify-content: center;
-  background:url(../TASK1/images/hameban.png) no-repeat;
+  background:url(images/hameban.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -374,27 +374,27 @@ transform: translate(-50%);
 }
 .lefter {
   transform: translateX(-60px) translateZ(-50px) rotateY(-10deg);
-  background-image: url(../TASK1/images/speed_security_stability_isometric.png);
+  background-image: url(images/speed_security_stability_isometric.png);
   background-repeat: no-repeat;
 }
 .left {
   transform: translateX(-30px) translateZ(-25px) rotateY(-5deg);
-  background-image: url(../TASK1/images/assds.png);
+  background-image: url(images/assds.png);
   background-repeat: no-repeat;
 }
 .center {
   opacity: 1;
-  background-image: url(../TASK1/images/ar.png);
+  background-image: url(images/ar.png);
   background-repeat: no-repeat;
 }
 .right {
   transform: translateX(30px) translateZ(-25px) rotateY(5deg);
   background-repeat: no-repeat;
-  background-image: url(../TASK1/images/webh.png);
+  background-image: url(images/webh.png);
 }
 .righter {
   transform: translateX(60px) translateZ(-50px) rotateY(10deg);
-  background-image: url(../TASK1/images/int.png);
+  background-image: url(images/int.png);
   background-repeat: no-repeat;
 }
 .explainer {
